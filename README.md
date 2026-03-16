@@ -40,11 +40,13 @@ O ENIAC usava periféricos baseados principalmente na tecnologia de cartões per
 Leitora de cartões perfurados IBM: A principal forma de inserir dados e programas no ENIAC era através de cartões perfurados
 
 ### Saída
-Perfuradora de Cartões IBM: O computador registrava os resultados dos cálculos realizando perfurações em cartões. Impressora IBM: Posteriormente, os cartões perfurados eram processados por uma máquina de tabulação da IBM (como a IBM 405) para imprimir os resultados finais, porque o ENIAC não imprimia diretamente.
+Perfuradora de Cartões IBM: O computador registrava os resultados dos cálculos realizando perfurações em cartões. 
+Impressora IBM: Posteriormente, os cartões perfurados eram processados por uma máquina de tabulação da IBM (como a IBM 405) para imprimir os resultados finais, porque o ENIAC não imprimia diretamente.
 
 ## Comparação
 
-O ENIAC era enorme, ocupava uma sala inteira e usava cerca de 18 mil válvulas, realizando aproximadamente 5 mil operações por segundo. Já os computadores atuais são muito menores, usam bilhões de transistores e conseguem fazer bilhões de operações por segundo.
+O ENIAC era enorme, ocupava uma sala inteira e usava cerca de 18 mil válvulas, realizando aproximadamente 5 mil operações por segundo.
+Já os computadores atuais são muito menores, usam bilhões de transistores e conseguem fazer bilhões de operações por segundo.
 
 Além disso, o ENIAC tinha memória muito limitada e era programado com cabos e cartões perfurados, enquanto os computadores modernos possuem grande capacidade de memória, armazenamento e interfaces simples como teclado e mouse.
 
