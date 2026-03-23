@@ -1,0 +1,29 @@
+## Classificação dos Dispositivos
+
+- Teclado → Entrada  
+- Mouse → Entrada  
+- Monitor → Saída  
+- Caixa de Som → Saída  
+- Headset → Entrada/Saída  
+
+---
+
+## Associação
+
+- Teclado → Envia sinais elétricos por meio do USB/Bluetooth/2.4Ghz ao sistema operacional, que são interpretados como teclas digitadas.
+
+- Mouse → Envia movimentos e cliques por meio do USB/Bluetooth/2.4Ghz. Permite controlar o cursor do mouse para interagir com a interface.
+
+- Monitor → Recebe sinais de vídeo da placa gráfica via HDMI, DVI, VGA ou DisplayPort. Exibe imagens, textos e tudo que o usuário vê na tela.
+
+- Caixa de Som → Recebe sinais de áudio do sistema operacional via P2, USB ou Bluetooth e os converte em som audível. Sua função principal é reproduzir músicas, vídeos, jogos e outros áudios para o usuário.
+
+- Headset → Conecta via P2, 2.4Ghz, USB ou Bluetooth, faz o envio de sinais pelo microfone e recebe sinais de áudio do sistema pelo fone. Permite ouvir sons e se comunicar por voz.
+
+---
+
+## Reflexão
+
+1. → Sem os dispositivos de saída nós não veríamos o resultado do envio de dados dos dispositivos de entrada, então seria inutilizado, por isso a importância de ambos os dispositivos.
+
+2. → Eles permitem tanto enviar quanto receber dados, possibilitando a troca de informações entre computadores e dispositivos, sem eles, não teria comunicação eficiente, como transferência de arquivos pelos pendrives, internet ou conexão entre sistemas.
