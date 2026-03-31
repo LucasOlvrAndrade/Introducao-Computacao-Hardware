@@ -6,7 +6,7 @@ Este repositório contém as atividades desenvolvidas durante a disciplina de **
 
 ##  Informações
 
-**Professora:** Kadidja Valéria
+**Professora:** Kadidja Valeria
 
 **Aluno:** Lucas de Oliveira Andrade  
 
