@@ -7,7 +7,6 @@ Este repositório contém as atividades desenvolvidas durante a disciplina de **
 ##  Informações
 
 **Professora:** Kadidja Valéria
-
 **Aluno:** Lucas de Oliveira Andrade  
 **Disciplina:** Introdução à Computação  
 
