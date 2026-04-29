@@ -78,23 +78,23 @@ Jogadores têm dificuldade para organizar e acompanhar o progresso rumo à plati
 ---
 
 ## 5. Mapa Conceitual
-[DADOS]
-(histórico, troféus, tempo de jogo, dificuldade)
-↓
-[PROCESSAMENTO]
-(coleta, IA, análise de progresso)
-↓
-[INFORMAÇÃO]
-(relatórios, alertas, sugestões)
-↓
-[CONHECIMENTO]
-(padrões de conquista e rotas ideais)
-↓
-[DECISÃO]
-(próximo troféu, melhor caminho, prioridade)
-↓
-[VALOR]
-(platina mais rápida, organização e engajamento)
+- [DADOS]
+- (histórico, troféus, tempo de jogo, dificuldade)
+- ↓
+- [PROCESSAMENTO]
+- (coleta, IA, análise de progresso)
+- ↓
+- [INFORMAÇÃO]
+- (relatórios, alertas, sugestões)
+- ↓
+- [CONHECIMENTO]
+- (padrões de conquista e rotas ideais)
+- ↓
+- [DECISÃO]
+- (próximo troféu, melhor caminho, prioridade)
+- ↓
+- [VALOR]
+- (platina mais rápida, organização e engajamento)
 
 ---
 
