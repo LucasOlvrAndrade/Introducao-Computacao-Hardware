@@ -1,105 +1,37 @@
-# 🎮 Startup: Sistema de Guia para Platina de Jogos
+#  Engenharia de Software - 1° Semestre
 
-## 1. Problema
-Jogadores têm dificuldade para organizar e acompanhar o progresso rumo à platina, principalmente por causa da quantidade de troféus, da complexidade dos requisitos e da falta de uma estrutura centralizada para planejar a jornada em cada jogo.
-
-### Dados coletados
-- Histórico de troféus desbloqueados  
-- Progresso por jogo  
-- Preferências de plataforma: PS5, Xbox, PC e Nintendo  
-- Tempo gasto em cada jogo  
-- Grau de dificuldade dos troféus  
-- Taxa de conclusão por título  
-- Troféus já perdidos ou *missables*  
-- Estilo de jogo do usuário  
+**Professora:** Kadidja Valéria  
+**Aluno:** Lucas de Oliveira Andrade  
+**Data:** 16/03/2026  
 
 ---
 
-## 2. Processamento
+##  Classificação dos Dispositivos
 
-### Funcionamento geral
-**Coleta → Armazenamento → Processamento → Análise**
-
-- **Coleta:** o sistema registra o progresso do jogador, conquistas obtidas e tempo dedicado a cada jogo  
-- **Armazenamento:** os dados ficam salvos em um banco de dados organizado por jogo, plataforma e perfil do usuário  
-- **Processamento:** algoritmos analisam o progresso, identificam pendências e cruzam informações sobre troféus  
-- **Análise:** a IA gera recomendações personalizadas para facilitar a rota da platina  
-
-### Tecnologias utilizadas
-- Inteligência Artificial  
-- Algoritmos de recomendação  
-- Banco de dados  
-- Dashboard de progresso  
-- Integração com APIs das plataformas de jogos  
-- Sistema de alertas e lembretes  
-
-### Elementos do sistema
-- **Sistema:** aplicativo de guia para platina  
-- **Processos:** análise de progresso + sugestão de rota ideal  
-- **Banco de dados:** histórico de jogos, troféus e desempenho do usuário  
-- **Fluxo:** dados → análise → recomendação → conclusão da platina  
+- **Teclado** → Entrada  
+- **Mouse** → Entrada  
+- **Monitor** → Saída  
+- **Caixa de Som** → Saída  
+- **Headset** → Entrada/Saída  
 
 ---
 
-## 3. Informação
+##  Associação
 
-### Descobertas geradas
-- Identificação de jogos com maior dificuldade para platinar  
-- Padrões de progresso do jogador  
-- Troféus mais demorados ou mais fáceis de obter  
-- Estimativa de tempo restante para concluir cada platina  
-- Alertas sobre conquistas que podem ser perdidas no caminho  
+- **Teclado:** Envia sinais elétricos por meio do USB, Bluetooth ou 2.4Ghz ao sistema operacional, que são interpretados como teclas digitadas.  
 
-### Como o sistema ajuda
-- Indica o que fazer primeiro em cada jogo  
-- Sugere a melhor ordem para conquistar troféus  
-- Mostra etapas obrigatórias e opcionais  
-- Ajuda a evitar retrabalho e perda de progresso  
-- Organiza a jornada de platina em um formato claro e prático  
+- **Mouse:** Envia movimentos e cliques por meio do USB, Bluetooth ou 2.4Ghz. Permite controlar o cursor do mouse para interagir com a interface.  
+
+- **Monitor:** Recebe sinais de vídeo da placa gráfica via HDMI, DVI, VGA ou DisplayPort. Exibe imagens, textos e tudo que o usuário vê na tela.  
+
+- **Caixa de Som:** Recebe sinais de áudio do sistema operacional via P2, USB ou Bluetooth e os converte em som audível. Sua função principal é reproduzir músicas, vídeos, jogos e outros áudios para o usuário.  
+
+- **Headset:** Conecta via P2, 2.4Ghz, USB ou Bluetooth. Envia sinais pelo microfone e recebe sinais de áudio do sistema pelo fone, permitindo ouvir sons e se comunicar por voz.  
 
 ---
 
-## 4. Decisão
+##  Reflexão
 
-### Decisões apoiadas pelo sistema
-- Qual jogo iniciar ou continuar  
-- Quais troféus priorizar  
-- Quando repetir fases ou missões  
-- Qual rota seguir para platinar mais rápido  
-- Quando revisar troféus perdidos ou pendentes  
+1. Sem os dispositivos de saída, não veríamos o resultado do envio de dados dos dispositivos de entrada, tornando-os inutilizáveis. Por isso, ambos são essenciais.  
 
-### Valor gerado
-- Maior organização da jogatina  
-- Mais eficiência na conquista de platinas  
-- Menos tempo perdido tentando descobrir caminhos  
-- Experiência mais clara e guiada para o jogador  
-- Comunidade mais engajada com metas, rankings e progresso compartilhado  
-
----
-
-## 5. Mapa Conceitual
-- [DADOS]
-- (histórico, troféus, tempo de jogo, dificuldade)
-- ↓
-- [PROCESSAMENTO]
-- (coleta, IA, análise de progresso)
-- ↓
-- [INFORMAÇÃO]
-- (relatórios, alertas, sugestões)
-- ↓
-- [CONHECIMENTO]
-- (padrões de conquista e rotas ideais)
-- ↓
-- [DECISÃO]
-- (próximo troféu, melhor caminho, prioridade)
-- ↓
-- [VALOR]
-- (platina mais rápida, organização e engajamento)
-
----
-
-## 🔁 Ciclo do Sistema
-
-**Entrada → Processamento → Saída → Feedback**
-
-O feedback vem do próprio desempenho do jogador, permitindo que o sistema aprenda com o comportamento dele e refine as recomendações ao longo do tempo.
+2. Eles permitem tanto enviar quanto receber dados, possibilitando a troca de informações entre computadores e dispositivos. Sem eles, não haveria comunicação eficiente, como transferência de arquivos por pendrives, internet ou conexão entre sistemas.
