@@ -14,3 +14,6 @@ Cada grupo deve incluir neste repositório:
   - Diagrama Anel
 
   ![[Anel](Imagens/DiagramaAnel.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Anel.png)
+  - Diagrama Barramento
+    
+  ![[Barramento ](Imagens/Diagrama%20Bus.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Bus.png)
