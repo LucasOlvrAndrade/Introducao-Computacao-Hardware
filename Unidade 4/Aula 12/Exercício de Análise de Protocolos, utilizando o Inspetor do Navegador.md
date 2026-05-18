@@ -2,7 +2,7 @@
 ## Objetivo 
 Compreender a origem e evolução da Internet, seus conceitos fundamentais, os principais protocolos de comunicação e o papel dos navegadores no acesso à Web. 
 
-1. História da Internet: A Internet surgiu a partir de projetos de pesquisa voltados para a comunicação entre computadores em rede.
+## 1. História da Internet: A Internet surgiu a partir de projetos de pesquisa voltados para a comunicação entre computadores em rede.
 - ARPANET (décadas de 60/70): foi a rede precursora da Internet, criada pelo Departamento de Defesa dos Estados Unidos para interligar universidades e centros de pesquisa.
 - Expansão acadêmica e militar: nos anos 70 e 80, a rede passou a ser usada por instituições acadêmicas, científicas e militares para troca de informações.
 - Comercialização nos anos 90: a Internet começou a se popularizar com o surgimento de provedores e do acesso para usuários comuns.
