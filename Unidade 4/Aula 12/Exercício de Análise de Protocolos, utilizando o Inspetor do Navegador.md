@@ -13,16 +13,18 @@ Compreender a origem e evolução da Internet, seus conceitos fundamentais, os p
 - Internet: é a infraestrutura de redes conectadas no mundo inteiro.
 - Web: é um serviço que funciona sobre a Internet, permitindo acessar sites e páginas por navegadores.
   
-  ### Arquitetura cliente-servidor
+### Arquitetura cliente-servidor
   A comunicação na Web funciona no modelo cliente-servidor:
+  
 - O cliente faz a solicitação, como um navegador.
 - O servidor recebe o pedido, processa e envia a resposta.
+  
 Exemplo:
 - O usuário digita um endereço no navegador.
 - O navegador envia uma requisição ao servidor.
 - O servidor responde com a página solicitada.
   
-## Uso de endereços IP
+### Uso de endereços IP
 O IP identifica dispositivos na rede.
 Exemplos:
 - IPv4: 192.168.0.1
