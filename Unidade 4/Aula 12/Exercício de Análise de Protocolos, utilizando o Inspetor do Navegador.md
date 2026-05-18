@@ -67,3 +67,5 @@ O navegador recebe os arquivos do servidor, processa esses elementos e exibe a p
 - WebKit (Safari): usado no Safari, muito presente no ecossistema Apple.
   
 ## 5. Exercício Prático – Análise de Protocolos
+  - 200 Ok
+![[Estrela ](Imagens/200%20ok.png)]([https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Estrela.png](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/200%20ok.png))
