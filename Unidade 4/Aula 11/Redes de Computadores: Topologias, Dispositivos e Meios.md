@@ -8,6 +8,9 @@ Cada grupo deve incluir neste repositório:
 
 ### 1. Diagramas de Topologias
 
-  - Diagrama Estrela (Star)
+  - Diagrama Estrela 
     
   ![[Estrela ](Imagens/Diagrama%20Estrela.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Estrela.png)
+  - Diagrama Anel
+
+  ![[Anel](Imagens/DiagramaAnel.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Anel.png)
