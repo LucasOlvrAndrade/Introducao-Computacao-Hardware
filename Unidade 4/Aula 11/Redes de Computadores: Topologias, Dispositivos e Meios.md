@@ -17,3 +17,23 @@ Cada grupo deve incluir neste repositório:
   - Diagrama Barramento
     
   ![[Barramento ](Imagens/Diagrama%20Bus1.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Bus1.png)
+  - DIagrama Malha (Mush)
+
+  ![[Malha](Imagens/Diagrama%20Malha.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/Diagrama%20Malha.png)
+  
+### 2. Quadro Comparativo de Dispositivos
+![[Quadro Comparativo](Imagens/Quadrocomparativo.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Quadro%20comparativo.png)
+
+### 3. Meios de Transmissão
+  - Meios Guiados
+    ![[MeiosGuiados](Imagens/MeiosGuiaods.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/MeiosGuiados.png)
+  - Meios Não Guis
+    ![[MeiosNãoGuiados ](Imagens/MeiosNaoGuiados.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/MeiosNaoGuiados.png)
+  - Esquema Visual
+    ![[Malha](Imagens/EsquemaVisual.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/EsquemaVisual.png)
+
+### 4. Conexão RFID 
+
+A conexão **RFID** (*Radio-Frequency Identification*) é uma tecnologia **sem fio** que utiliza ondas de rádio para identificar e transmitir dados entre dois componentes principais:
+
+![[Radio](Imagens/radio.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/radio.png)
