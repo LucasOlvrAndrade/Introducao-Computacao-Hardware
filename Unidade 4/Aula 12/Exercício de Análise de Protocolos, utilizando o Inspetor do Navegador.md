@@ -69,4 +69,12 @@ O navegador recebe os arquivos do servidor, processa esses elementos e exibe a p
 ## 5. Exercício Prático – Análise de Protocolos
   - 200 Ok
     
-  ![[Estrela](Imagens/200%20ok.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/200%20ok.png)
+  ![[200 Ok](Imagens/200%20ok.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/200%20ok.png)
+
+  - 304 Not Modified
+
+  ![[304 Not Modified](Imagens/304%20not%20modified.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/304%20not%20modified.png)
+
+  - 404 Not Found
+
+  ![[404 Not Found](Imagens/404%20not%20found.png)](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%204/Imagens/404%20not%20found.png)
