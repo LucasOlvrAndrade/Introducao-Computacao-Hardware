@@ -51,8 +51,9 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
    
 ## Referências: 
 
-- CloudFlare. http://cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/
-  
-- Karspersky. https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry
+- Cloudflare CLOUDFARE. O que é o ransomware WannaCry? Disponível em: [Cloudflare.](http://cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/) Acesso em: 25 maio 2026.
 
-- Fortnet. https://www.fortinet.com/br/resources/cyberglossary/wannacry-ransomware-attack
+- Kaspersky KASPERSKY. WannaCry ransomware: o que é e como se proteger. Disponível em: [Kaspersky.](https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry) Acesso em: 25 maio 2026.
+
+- Fortinet FORTINET. Ataque de ransomware WannaCry. Disponível em: [Fortinet.](https://www.fortinet.com/br/resources/cyberglossary/wannacry-ransomware-attack) Acesso em: 25 maio 2026.
+
