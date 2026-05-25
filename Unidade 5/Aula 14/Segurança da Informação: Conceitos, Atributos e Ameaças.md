@@ -28,7 +28,21 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
 
 ### 3. Estudo de Cenário (Escolha uma das opções)
 - **Opção A – Relatório sobre ataque cibernético real:**
-  - Contexto do ataque.
-  - Vulnerabilidade explorada.
-  - Impactos causados.
-  - Medidas de mitigação aplicadas ou recomendadas.
+  - Contexto do ataque:
+    O WannaCry foi um ransomware que infectou mais de 230 mil computadores em 150 países. O ataque bloqueava arquivos e exigia pagamento em Bitcoin. Hospitais, empresas e órgãos públicos foram afetados, incluindo o sistema de saúde do Reino Unido.
+    
+  - Vulnerabilidade explorada:
+    O malware explorou a falha “EternalBlue” no Windows, ligada ao protocolo SMB. Muitos computadores estavam desatualizados e sem correções de segurança.
+    
+  - Impactos causados:
+    - Paralisação de serviços e empresas.
+    - Bloqueio de dados e sistemas.
+    - Cancelamento de atendimentos hospitalares.
+    - Prejuízo estimado em US$ 4 bilhões.
+      
+  - Medidas de mitigação aplicadas ou recomendadas:
+    - Atualização dos sistemas Windows.
+    - Desativação do SMBv1.
+    - Uso de antivírus e backups.
+    - Monitoramento e correção rápida de vulnerabilidades.
+    - Treinamento de usuários em segurança digital.
