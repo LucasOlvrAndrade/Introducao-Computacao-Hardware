@@ -29,8 +29,7 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
 - Vulnerabilidades técnicas e humanas.
 - Impactos potenciais em sistemas e organizações.
 
-### 3. Estudo de Cenário (Escolha uma das opções)
-- **Opção A – Relatório sobre ataque cibernético real:**
+### 3. Estudo de Cenário
   - Contexto do ataque:
     O WannaCry foi um ransomware que infectou mais de 230 mil computadores em 150 países. O ataque bloqueava arquivos e exigia pagamento em Bitcoin. Hospitais, empresas e órgãos públicos foram afetados, incluindo o sistema de saúde do Reino Unido.
     
