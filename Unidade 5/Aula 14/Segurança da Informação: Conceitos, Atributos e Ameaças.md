@@ -7,7 +7,9 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
 
 
 ### 1. Conceitos Fundamentais
-- Definição de **Segurança da Informação** (ISO/IEC 27000:2018).
+- Definição de **Segurança da Informação** (ISO/IEC 27000:2018):
+    - Segurança da Informação é a proteção das informações contra diversos tipos de ameaças, garantindo principalmente:
+
 - Explicação dos atributos principais:
   - **Confidencialidade:**
     Acesso restrito apenas a indivíduos, entidades ou processos explicitamente autorizados.
