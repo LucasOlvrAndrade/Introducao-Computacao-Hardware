@@ -48,3 +48,11 @@ Compreender os conceitos fundamentais da segurança da informação, identificar
     - Uso de antivírus e backups.
     - Monitoramento e correção rápida de vulnerabilidades.
     - Treinamento de usuários em segurança digital.
+   
+## Referências: 
+
+- CloudFlare. http://cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/
+  
+- Karspersky. https://www.kaspersky.com.br/resource-center/threats/ransomware-wannacry
+
+- Fortnet. https://www.fortinet.com/br/resources/cyberglossary/wannacry-ransomware-attack
