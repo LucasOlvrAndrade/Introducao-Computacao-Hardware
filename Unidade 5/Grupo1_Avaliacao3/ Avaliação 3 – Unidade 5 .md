@@ -1,4 +1,5 @@
 # Avaliação 3 – Unidade 5  
+- Integrantes: https://github.com/LucasOlvrAndrade, https://github.com/joaopedroduarteborges, https://github.com/arthursantos12-ceub
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
 ### Objetivo
