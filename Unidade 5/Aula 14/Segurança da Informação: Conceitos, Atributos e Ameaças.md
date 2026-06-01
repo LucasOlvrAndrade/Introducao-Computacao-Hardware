@@ -4,7 +4,7 @@
 Compreender os conceitos fundamentais da segurança da informação, identificar seus principais atributos e reconhecer ameaças comuns, aplicando os conhecimentos em estudo de caso prático.
 
 ## Práticas de laboratório de informática
-- Integrantes: https://github.com/LucasOlvrAndrade, https://github.com/joaopedroduarteborges, https://github.com/arthursantos12-ceub
+- Integrantes: [Lucas de Oliveira Andrade](https://github.com/LucasOlvrAndrade), [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges) e [Arthur Santos Lemos](https://github.com/arthursantos12-ceub)
 
 ### 1. Conceitos Fundamentais
 - Definição de **Segurança da Informação** (ISO/IEC 27000:2018):
