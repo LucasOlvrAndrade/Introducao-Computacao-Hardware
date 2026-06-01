@@ -14,10 +14,11 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 
 1. **Escolha da ameaça**  
    - Ameaça selecionada: **WannaCry (Worm-Ransomware)**  
-   [- Cartilha de referência: Cartilha de Segurança para Internet – CERT.br](https://cartilha.cert.br/ransomware/)
+   [- Cartilha de referência 1: Cartilha de Segurança para Internet – CERT.br](https://cartilha.cert.br/ransomware/)
+   [- Cartilha de referência 2: Ransomware: Boas Práticas para Proteção, Detecção e Resposta](https://cert.br/docs/ransomware/)
 
 2. **Produção do artefato criativo**  
-   [Cartilha educativa Wannacry](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%205/Grupo1_Avaliacao3/Cartilha%20Educativa%20Wannacry.pdf)
+   [- Cartilha educativa Wannacry](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%205/Grupo1_Avaliacao3/Cartilha%20Educativa%20Wannacry.pdf)
 
 ---
 
