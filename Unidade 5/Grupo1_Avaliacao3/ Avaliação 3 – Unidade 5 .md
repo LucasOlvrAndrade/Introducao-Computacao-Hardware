@@ -13,7 +13,7 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 ### Instruções da Atividade
 
 1. **Escolha da ameaça**  
-   - Ameaça selecionada: **WannaCry (Worm-Ransomware)**  
+    Ameaça selecionada: **WannaCry (Worm-Ransomware)**  
    [- Cartilha de referência 1: Cartilha de Segurança para Internet – CERT.br](https://cartilha.cert.br/ransomware/)
 
    [- Cartilha de referência 2: Ransomware: Boas Práticas para Proteção, Detecção e Resposta](https://cert.br/docs/ransomware/)
