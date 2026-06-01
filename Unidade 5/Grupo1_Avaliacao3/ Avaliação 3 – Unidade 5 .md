@@ -14,9 +14,7 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 
 1. **Escolha da ameaça**  
    - Ameaça selecionada: **WannaCry (Worm-Ransomware)**  
-   - Cartilha de referência: Cartilha de Segurança para Internet – CERT.br, seção sobre
-     **Códigos Maliciosos (Malware)**, com foco em ransomware e worms.  
-   - Link: https://cartilha.cert.br/malware/
+   [- Cartilha de referência: Cartilha de Segurança para Internet – CERT.br](https://cartilha.cert.br/ransomware/)
 
 2. **Produção do artefato criativo**  
    [Cartilha educativa Wannacry](https://github.com/LucasOlvrAndrade/Introducao-Computacao-Hardware/blob/Atividades/Unidade%205/Grupo1_Avaliacao3/Cartilha%20Educativa%20Wannacry.pdf)
@@ -28,3 +26,4 @@ Cada integrante deve produzir um texto curto (1 página) respondendo:
 **"Como as novas tecnologias podem fortalecer os mecanismos de proteção em
 segurança da informação?"**
 
+- As novas tecnologias fortalecem a segurança da informação ao permitir a detecção rápida de ameaças, a proteção de dados e a resposta eficiente a ataques. Ferramentas como Inteligência Artificial, computação em nuvem, autenticação multifator e sistemas de monitoramento ajudam a identificar atividades suspeitas, evitar invasões e recuperar informações em caso de incidentes. Além disso, tecnologias de backup e criptografia aumentam a proteção dos dados. No entanto, a segurança também depende da conscientização dos usuários e da atualização constante dos sistemas. Assim, a combinação entre tecnologia e boas práticas torna os ambientes digitais mais seguros.
