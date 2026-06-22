@@ -1,5 +1,6 @@
 # Introducao-Computacao-Hardware
 Atividades de Introdução a Computação
+
 A estrutura do repositório está dividida em branches
 
 Investigação de hardware 09/03
